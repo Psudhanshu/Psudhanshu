@@ -16,19 +16,19 @@
 
 ## 🈷️  Programming Languages
 
-Python ,SQL
+Python ,SQL, Javascript, Java.
 
 ## 📚  Experience with libraries :
 
-Numpy, Pandas, Matplotlib, Scikit learn
+Numpy, Pandas, Matplotlib, Scikit learn, React, Tensorflow.
 
 ## 🔬  Tools :
 
-Jupyter Notebook, Git, Pycharm, Vim
+Jupyter Notebook, Git, Pycharm, Vim, Tableau, Adobe XD.
 
 ## 🎵  Soft skills:
 
-Public Speaking, Creative writing, Graphic Design
+Public Speaking, Creative writing, Graphic Design.
 
 # 🔗 Links
 
@@ -43,3 +43,5 @@ Public Speaking, Creative writing, Graphic Design
 ### Medium: [https://medium.com/@sudhu672000](https://medium.com/@sudhu672000)
 
 ### Twitter: [https://twitter.com/SudhanshuPawar3](https://twitter.com/SudhanshuPawar3)
+
+### Behance: [https://www.behance.net/sudhanshupawar](https://www.behance.net/sudhanshupawar)
