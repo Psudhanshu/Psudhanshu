@@ -16,7 +16,7 @@
 
 ## 🈷️  Programming Languages
 
-Python ,SQL, Javascript, Java.
+Python ,SQL, Javascript, Java, R
 
 ## 📚  Experience with libraries :
 
