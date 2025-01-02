@@ -2,29 +2,28 @@
 
 # 🧔🏻 About Me
 
-📁 I am ***Sudhanshu Pawar,*** a Data Scientist and Machine Learning Engineer. I am a Recent Computer Engineering Graduate.
+📁 I am Sudhanshu Pawar, a Data Scientist and Machine Learning Engineer. I am currently pursuing my Master’s in Applied Data Science at Syracuse University, building expertise in Machine Learning, Deep Learning, and Data Engineering.
 
-💻 I am currently working on building up my skills in Data Engineering, Machine Learning, Deep Learning and Data Visualisation. I wish to learn and do research in Generative Neural Networks in Future. I’m Open to contribution and collaboration on different projects, Contact me on my linkedin or twitter.
+💻 I am working on projects in predictive analytics, deep learning, and multi-agent systems, with hands-on experience in tools like Python, SQL, Tableau, and Google Colab. I aspire to specialize in Generative Neural Networks and contribute to cutting-edge research in the field.
 
-🏛️ I Started my journey into programming and CS by creating games in Unity, later I fondled with web development in React (Still do it as a side hustle and backup) Later I got a Pure interest in Data Science and currently developing myself in the domain.  
+🏛️ My journey into programming began with creating games in Unity, followed by exploring web development with React. This evolved into a passion for Data Science, where I now focus on implementing machine learning models and developing scalable data solutions.
 
-🎢 Outside of world of tech, I enjoy pushing myself to  develop new skills and hobbies, which includes playing guitar, sketching, and Graphic Designing.
-
-📕 I am a big admirer of Linus Torvalds, Alan Turing and Steve Jobs for the people they are and the legacy they have left behind all their life.
+🎢 Outside of tech, I enjoy creativity and learning new skills, such as playing guitar, sketching, and designing graphics. I have contributed to newsletter creation and enjoy crafting engaging content.
 
 # 🦸🏻‍♂️ Skills
 
 ## 🈷️  Programming Languages
 
-Python ,SQL, Javascript, Java, R
+Python, R, Java, SQL 
 
 ## 📚  Experience with libraries :
 
-Numpy, Pandas, Matplotlib, Scikit learn, React, Tensorflow.
+ NumPy, Pandas, Matplotlib, Seaborn, ggplot2, Scikit-learn, TensorFlow, Keras, XGBoost, LightGBM, OpenCV, streamlit
 
 ## 🔬  Tools :
 
-Jupyter Notebook, Git, Pycharm, Vim, Tableau, Adobe XD.
+GitHub, Excel, Tableau, Jupyter Notebook, Google Colab, Docker, PowerApps, Power BI, Adobe 
+Creative Cloud (CC), Blender, Unreal Engine, Microsoft Cloud Services, Snowflake, Kubernetes, SQL Server
 
 ## 🎵  Soft skills:
 
@@ -32,7 +31,9 @@ Public Speaking, Creative writing, Graphic Design.
 
 # 🔗 Links
 
-### Gmail: sudhu672000@gmail.com
+### Gmail: sudhu672000@gmail.com , sgpawar@syr.edu
+
+### Contact: +1 3157664650
 
 ### Linked in: [https://www.linkedin.com/in/sudhanshu-pawar-6600551b1/](https://www.linkedin.com/in/sudhanshu-pawar-6600551b1/)
 
