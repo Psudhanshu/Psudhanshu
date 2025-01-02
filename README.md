@@ -36,7 +36,7 @@ Public Speaking, Creative writing, Graphic Design.
 
 ### Linked in: [https://www.linkedin.com/in/sudhanshu-pawar-6600551b1/](https://www.linkedin.com/in/sudhanshu-pawar-6600551b1/)
 
-### Resume: [https://drive.google.com/file/d/1VB0c3x8n2OXdFR0SWSdNVqMyk_uw4GBA/view?usp=sharing](https://drive.google.com/file/d/1VB0c3x8n2OXdFR0SWSdNVqMyk_uw4GBA/view?usp=sharing)
+### Resume: (https://olive-belita-54.tiiny.site)
 
 ### Github: [https://github.com/Psudhanshu](https://github.com/Psudhanshu)
 
