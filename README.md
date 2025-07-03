@@ -1,4 +1,5 @@
 # 🤙🏼 Hi there!
+![tumblr_4da998fa345d2c148fc92dedff9a8b65_fc883f87_2048](https://github.com/user-attachments/assets/efb61817-3042-47a3-b5f5-4f34d0b7ae6b)
 
 # 🧔🏻 About Me
 
